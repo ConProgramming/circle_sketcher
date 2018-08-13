@@ -1,0 +1,4 @@
+enum CircleType {
+  radians,
+  degrees,
+}
